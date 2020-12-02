@@ -1,3 +1,2 @@
-This is my personal portfolio in making.
-I am a first year btech student
-I am learning to code 
+# My portfolio
+Hey welcome to my Portfolio.I am  new to coding and currently learning coding from Mr tanay pratap
